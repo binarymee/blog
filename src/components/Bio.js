@@ -28,11 +28,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>. Developer by day, developer by night!
-              {` `}
-              {/*<a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
-              </a>*/}
+              Personal blog of <a 
+                target="_blank" 
+                href={`https://twitter.com/${social.twitter}`}><strong>{author}</strong></a>.
+              <br />
+              Developer by day, developer by night!
             </p>
           </div>
         )
@@ -43,7 +43,7 @@ function Bio() {
 
 const bioQuery = graphql`
   query BioQuery {
-    avatar: file(absolutePath: { regex: "/gatsby-icon.png/" }) {
+    avatar: file(absolutePath: { regex: "/icon.jpg/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed
