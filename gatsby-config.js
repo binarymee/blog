@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Tech Scribbles`,
+    title: `Random Scribbles`,
     author: `Balaji C Mahesh Babu`,
     description: `Personal blog by Balaji C M. Developer by day, developer by night!`,
     siteUrl: `https://binarymee.com`,
@@ -50,7 +50,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-131557339-1`,
       },
     },
     `gatsby-plugin-feed`,

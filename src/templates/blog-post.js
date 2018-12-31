@@ -14,18 +14,37 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title={post.frontmatter.title} description={post.excerpt} />
-        <h1>{post.frontmatter.title}</h1>
-        <p
+        <SEO 
+          title={post.frontmatter.title} 
+          description={post.frontmatter.description} 
+          keywords={post.frontmatter.keywords.split(',')}
+          slug={post.fields.slug}
+        />
+        <h1 style={{color: '#797E15'}}>{post.frontmatter.title}</h1>
+        <div 
           style={{
             ...scale(-1 / 5),
             display: `block`,
-            marginBottom: rhythm(1),
+            marginBottom: rhythm(3),
             marginTop: rhythm(-1),
+            color: '#303200',
           }}
         >
-          {post.frontmatter.date}
-        </p>
+          <p
+            style={{
+              float: 'left'
+            }}
+          >
+            {post.frontmatter.description}
+          </p>
+          <p
+            style={{
+              float: 'right'
+            }}
+          >
+            {post.frontmatter.date}
+          </p>
+        </div>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
@@ -80,6 +99,11 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        description
+        keywords
+      }
+      fields {
+        slug
       }
     }
   }
