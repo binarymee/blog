@@ -9,13 +9,13 @@ keywords: 2019,resolutions,binarymee
 
 ###Recap of year 2018
 
-I would have interviewed plenty of full stack developers, QA engineers, front-end developers for my team at SurveySparrow. I am proud of my team members whom we added in the year 2018. We proved that, being in Kochi and hiring top talent is not a distant dream. We grew from 10 members team to 25 people company at the end of this year.
+I would have interviewed plenty of full stack developers, QA engineers, front-end developers for my team at SurveySparrow. I am proud of my team members whom we added in the year 2018. We proved that, being in Kochi and hiring top talent is not a distant dream. We grew from 10 members team to 25 people company at the end of the year 2018.
 
 One of the biggest happiness in the year 2018 is the seed funding we received for our startup. The figures and other details are something that I should not disclose at the time of writing this article. Will come back and update once the PR is done 😀 
 
 Apart from just development, I learned a great deal by being part of a startup. You might have to fill multiple shoes when you are an early member of a startup. I am blessed to have that opportunity.  
 
-I learned driving cars. I bought a car without much thought process. I just liked the customer support I got in nexa showroom and decided to buy Baleno. One another instance of how customer success and support is important for any business. I am happy that I didn't go with any used car, which was my first decision. 
+I learned driving four wheelers. I bought a car without much thought process. I just liked the customer support I got in nexa showroom and decided to buy Baleno. One another instance of how customer success and support is important for any business. I am happy that I didn't go with any used car, which was my first decision. 
 
 I lost and gained weight back. I started working out really hard by the end of 2017. Around mid of this year, I was in the best shape that I was in past few years. After May, I couldn't keep it up and compromised my diet and workout.
 
