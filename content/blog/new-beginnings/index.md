@@ -5,7 +5,7 @@ description: Action plan for the year 2019
 keywords: 2019,resolutions,binarymee
 ---
 
-2017 is the year of major decisions. I took a major detour in my career and took a road less traveled. I decided to start something on my own and I settled with a startup as an early member. I would say 2018 is a year of execution. That's where the actual journey began.
+2017 was the year of major decisions. I took a road less traveled in my career. I decided to start something on my own and I settled with a startup as an early member. I would say 2018 is a year of execution. That's where the actual journey began.
 
 ###Recap of year 2018
 
