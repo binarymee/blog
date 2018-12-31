@@ -25,6 +25,7 @@ class Footer extends React.Component {
         >
           twitter
         </a> &bull;{' '}
+        {/* Commenting github and stackoverflow. Will uncomment when I am really proud to show it to someone
         <a
           href="https://github.com/binarymee"
           target="_blank"
@@ -37,7 +38,7 @@ class Footer extends React.Component {
           target="_blank"
           rel="noopener noreferrer">
           stack overflow
-        </a> &bull;{' '}
+        </a> &bull;{' '} */}
         <a
           href="https://linkedin.com/in/balaji-mahesh-babu-13b18b47"
           target="_blank"
