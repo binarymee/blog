@@ -17,9 +17,7 @@ Apart from just development, I learned a great deal by being part of a startup. 
 
 I learned driving four wheelers. I bought a car without much thought process. I just liked the customer support I got in nexa showroom and decided to buy Baleno. One another instance of how customer success and support is important for any business. I am happy that I didn't go with any used car, which was my first decision. 
 
-I lost and gained weight back. I started working out really hard by the end of 2017. Around mid of the year 2018, I was in the best shape that I was in past few years. After May, I couldn't keep it up and compromised my diet and workout.
-
-I settled for a usual routine. Work to Home to Work infinite loop. I thought of getting out of it but couldn't do much because of the new responsibilities that I had. 
+I lost and gained weight back. I started working out really hard by the end of 2017. Around mid of the year 2018, I was in the best shape that I was in past few years. After May, I couldn't keep it up and compromised my diet and workout. 
 
 I was so optimistic at the beginning of the year and I added 30 books as 2018 Reading Challenge in Goodreads. I just completed 6 books. 
 
