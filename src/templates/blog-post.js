@@ -17,7 +17,7 @@ class BlogPostTemplate extends React.Component {
         <SEO 
           title={post.frontmatter.title} 
           description={post.frontmatter.description} 
-          keywords={post.frontmatter.keywords.split(',')}
+          keywords={post.frontmatter.keywords && post.frontmatter.keywords.split(',')}
           slug={post.fields.slug}
         />
         <h1 style={{color: '#797E15'}}>{post.frontmatter.title}</h1>
