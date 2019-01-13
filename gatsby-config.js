@@ -34,6 +34,23 @@ module.exports = {
             },
           },
           {
+            resolve: "gatsby-remark-embed-gist",
+            options: {
+              username: 'binarymee',
+              includeDefaultCss: true
+            }
+          },
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              classPrefix: "language-",
+              inlineCodeMarker: null,
+              aliases: {},
+              showLineNumbers: false,
+              noInlineHighlight: false,
+            },
+          },
+          {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
@@ -41,23 +58,6 @@ module.exports = {
           },
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
-          {
-            resolve: `gatsby-transformer-remark`,
-            options: {
-              plugins: [
-                {
-                  resolve: `gatsby-remark-prismjs`,
-                  options: {
-                    classPrefix: "language-",
-                    inlineCodeMarker: null,
-                    aliases: {},
-                    showLineNumbers: false,
-                    noInlineHighlight: false,
-                  },
-                },
-              ],
-            },
-          },
         ],
       },
     },
